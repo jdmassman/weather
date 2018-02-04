@@ -5,3 +5,5 @@
 *.csv
 forecast.dat
 Description.txt
+Intermediate/*
+Source_Data/*
